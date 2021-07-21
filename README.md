@@ -17,3 +17,4 @@ Este ejemplo ha sido creado con HTML, CSS y Javascript
  - Se usa el "offsetTop" para revisar la distancia del elemento actual
  - Por ultimo se crea el "window.scroll" para dar el efecto de desplazamiento y utilizar el "offsetTop"
 
+https://alevirdz.github.io/Scrolling-Effects/
