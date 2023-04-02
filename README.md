@@ -1,8 +1,7 @@
 
-# Scrolling-Effects
+# Scrolling Effects
 
-Creación de un Script ejemplar que otorga el funcionamiento de desplazamiento
-dentro de una misma seccion de la página web.
+Creation of an exemplary Script that grants the operation of scrolling within the same section of the web page.
 
 # Technology
 
@@ -13,6 +12,10 @@ dentro de una misma seccion de la página web.
 # Visit URL  
 
 https://alevirdz.github.io/Scrolling-Effects/
+
+# Reference image
+<img src="https://github.com/alevirdz/Scrolling-Effects/blob/41692c904901c6f2e1276de1a39990fb82b89421/Image.png" width="900" height="400" alt="Reference image">
+
 
 
 
